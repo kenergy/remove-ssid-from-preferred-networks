@@ -4,10 +4,10 @@
 	# 24 April 2013
 	
 #----------RESOURCES---------
-	# Removes a SSID from the list of preferred networks and connected to a different, desired network
+	# https://jamfnation.jamfsoftware.com/discussion.html?id=5327
 	
 #---------DESCRIPTION--------
-	# https://jamfnation.jamfsoftware.com/discussion.html?id=5327
+	# Removes a SSID from the list of preferred networks and connected to a different, desired network
 
 #----------VARIABLES---------	
 	# Enter desired and undesired SSIDs here
