@@ -11,7 +11,7 @@
 
 #----------VARIABLES---------	
 	# Enter desired and undesired SSIDs here
-	undesiredNetwork="Guest-Hopkins"
+	undesiredNetwork="Undesired-SSID"
 	desiredNetwork="Desired-SSID"
 
 	# Determine if the interface is called Wi-Fi or Airport
