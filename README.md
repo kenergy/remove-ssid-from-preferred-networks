@@ -5,7 +5,9 @@
 ### remove-ssid-from-preferred-networks
 Removes a SSID from the list of preferred networks.  
 ### remove-ssid-and-set-to-correct-network
-Does the same as above, but then attempts to connect to a `desiredNetwork`
+Does the same as above, but then attempts to connect to a `desiredNetwork`.
+### remove-all-except-desired-networks.sh
+Removes all networks except the one you want.
 ## How it Works
 
 ## Requirements
